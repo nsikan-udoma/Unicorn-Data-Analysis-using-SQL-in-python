@@ -8,7 +8,7 @@ Unicorn is a family business owned by 2 entrepreneurs highly invested in their b
 
 My task was to analyze the data, find interesting insights and identify weak areas and opportunities for Unicorn to boost business growth.
 
-Find attached below, the python notebook with the SQL queries used for exploring and analyzing the dataset.
+Find attached below, the python notebook with the SQL queries used for exploring and analyzing the dataset. Notebook opens here on GitHub
 
 [Unicorn Profits Analysis](https://github.com/nsikan-udoma/Unicorn-Data-Analysis-using-SQL-in-python/blob/main/SQL%20IN%20Python%20-%20Unicorn%20Data%20Analysis.ipynb)
 
