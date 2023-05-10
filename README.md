@@ -10,6 +10,8 @@ My task was to analyze the data, find interesting insights and identify weak are
 
 Find attached below, the python notebook with the SQL queries used for exploring and analyzing the dataset. Notebook opens here on GitHub
 
-[Unicorn Profits Analysis](https://github.com/nsikan-udoma/Unicorn-Data-Analysis-using-SQL-in-python/blob/26557dea61e14d3812d92f42bd57d8ba3a887c8d/notebook.ipynb)
+[Notebook for SQL Queries](https://github.com/nsikan-udoma/Unicorn-Data-Analysis-using-SQL-in-python/blob/26557dea61e14d3812d92f42bd57d8ba3a887c8d/notebook.ipynb)
 
 
+Have a look at the Tablea Dashboard. See link below
+[Tableu Interactive Dashboard](https://public.tableau.com/app/profile/nsikan.udoma/viz/UnicornProfitsAnalysis_16722818573170/Storyboard)
